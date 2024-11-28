@@ -79,6 +79,10 @@ Once the data is loaded into Snowflake:
 3. **Data Modeling in Tableau**: Create a star schema and define relationships between the cleaned data tables.
 4. **Create Visualizations**: Use Tableau Desktop to process and visualize the data.
 
+## Dashboard
+[![Washingtonstate_Animation](https://github.com/user-attachments/assets/66ceab9f-af6e-4e58-afe5-b4c7227d4d05)
+](https://public.tableau.com/app/profile/ravi.shankar.p.r/viz/ElectricvehiclestatsinWashingtonState/Home)
+
 > ### Checkout Tableau data visualization at [Electric vehicle stats in Washington State \| Tableau Public](https://public.tableau.com/app/profile/ravi.shankar.p.r/viz/ElectricvehiclestatsinWashingtonState/Home)
 
 > ### Checkout [how_to_run.docx](https://github.com/ravishankar324/Washington-state-electric-vehicles-ETL-pipeline/blob/main/how_to_run.docx) file for detailed steps to run this project.
